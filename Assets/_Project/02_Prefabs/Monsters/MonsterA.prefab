@@ -177,8 +177,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 78b9ff96d51640f47984a2745ff9e7d6, type: 3}
   - {fileID: 21300000, guid: 5b5127ffc8c55ba4e8df16ab43e928f1, type: 3}
   - {fileID: 21300000, guid: 63788f48d15541c44b22163d2dbc2f39, type: 3}
-  - {fileID: 21300000, guid: 6525d3fb1bd30b94b89ac8c3733e9674, type: 3}
-  - {fileID: 21300000, guid: 15213a76872978b46a893a10924c2aa5, type: 3}
   attackFrames:
   - {fileID: 21300000, guid: bbfa598819ea4e10941cd0ccd8d046d7, type: 3}
   - {fileID: 21300000, guid: 58c973e7ea624ca59148ac898837da78, type: 3}
@@ -187,6 +185,7 @@ MonoBehaviour:
   hitFrames:
   - {fileID: 21300000, guid: 093842fbdbb744a68cd3b599aec1d46d, type: 3}
   - {fileID: 21300000, guid: 77625091bcb642299a7a80276771301a, type: 3}
+  - {fileID: 21300000, guid: c3d735b79112f934e960f47ae45654a3, type: 3}
   deathFrames:
   - {fileID: 21300000, guid: fe57be3755c24f629687185316dfbb9c, type: 3}
   - {fileID: 21300000, guid: 708562abdd88489880ef255db418bd5f, type: 3}
@@ -212,6 +211,7 @@ MonoBehaviour:
   hitFrameTimes:
   - 0.08
   - 0.5
+  - 0.3
   deathFrameTimes:
   - 0.1429
   - 0.1429
