@@ -180,13 +180,12 @@ MonoBehaviour:
   - {fileID: 21300000, guid: fc1ce42fb67d6624c9f1f21468a3abc0, type: 3}
   projectileFrames:
   - {fileID: 21300000, guid: c019f4cb862084842b4bc8e44945d21e, type: 3}
-  - {fileID: 21300000, guid: 3d3a7d0252b7a5f4e864560970f4ace4, type: 3}
   projectileTarget: {fileID: 0}
   projectileSpawnOffset: {x: -0.9, y: 1.95, z: 0}
   projectileTargetAimOffset: {x: 0, y: 1.25, z: 0}
   projectileScale: {x: 0.3, y: 0.3, z: 1}
   projectileSpeed: 8
-  attack1ProjectileFrame: 3
+  attack1ProjectileFrame: 1
   projectileAnimationFramesPerSecond: 12
   projectileFloorMask:
     serializedVersion: 2
